@@ -1,2 +1,2 @@
-# Dise-o-mecatronico
+# Diseño mecatronico
 Repo del curso de diseño mecatrónico
